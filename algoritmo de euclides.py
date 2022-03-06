@@ -18,8 +18,7 @@ def algoritmo_euclides(x:int,y:int)->int:
     else:
         #cuando el residuo es cero se retorna b, que sería el MCD de (x,y)
         return b
-#fr
-#tu mama
+
         
         
         
