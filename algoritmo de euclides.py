@@ -1,5 +1,3 @@
-
-#xd x
 def algoritmo_euclides(x:int,y:int)->int:
     a=max(x,y)
     b=min(x,y)
