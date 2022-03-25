@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Oct  6 19:28:27 2021
 
-@author: Asus
-"""
 
 def algoritmo_euclides(x:int,y:int)->int:
     a=max(x,y)
